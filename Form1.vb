@@ -20,6 +20,8 @@
             bytNumRolls += 1
         Loop
         'Output number of rolls
-        lblNumRolls.Text = "Number of jelly rolls: " & bytNumRolls.ToString
+        lblNumRolls.Text = "Number of jelly donut rolls: " & bytNumRolls.ToString
     End Sub
 End Class
+
+' changed number of rolls to number of donut rolls to intentionally create pull request conflict
