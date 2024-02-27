@@ -1,0 +1,13 @@
+D:\DATC\SDEV 1032\Module6\DiceToTarget\bin\Debug\DiceToTarget.exe.config
+D:\DATC\SDEV 1032\Module6\DiceToTarget\bin\Debug\DiceToTarget.exe
+D:\DATC\SDEV 1032\Module6\DiceToTarget\bin\Debug\DiceToTarget.pdb
+D:\DATC\SDEV 1032\Module6\DiceToTarget\bin\Debug\DiceToTarget.xml
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.vbproj.AssemblyReference.cache
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.vbproj.SuggestedBindingRedirects.cache
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.Form1.resources
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.Resources.resources
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.vbproj.GenerateResource.cache
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.vbproj.CoreCompileInputs.cache
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.exe
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.xml
+D:\DATC\SDEV 1032\Module6\DiceToTarget\obj\Debug\DiceToTarget.pdb
